@@ -1,7 +1,7 @@
 <h1> Salve, Salve, Eu sou Denilson Arguelho <img  src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1> 
 - 🔥Desenvolvedor Front End <br>
 - 🚀Atualmente sou estágiario de suporte <br>
--🐱‍💻 Todos meus projetos estão disponíveis em [🛠 Portfólio em construção](<a href="https://denilson-arguelho.github.io/projeto-portfolio/" target="_blanck">Projeto-portfolio</a>)
+-🐱‍💻 Todos meus projetos estão disponíveis em [🛠 Portfólio em construção](<a href="https://denilson-arguelho.github.io/projeto-portfolio/" target="_blank">projeto-portfolio</a>)
 <br>
 <br>
 
