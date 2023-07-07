@@ -8,7 +8,7 @@
 </div>
 <br>
 
-[![denilson-arguelho github stats](https://github-readme-stats.vercel.app/api?username=guiloko&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/denilson-arguelho)
+![Denilson Arguelho GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## Tecnologias que  uso no meu dia
 
