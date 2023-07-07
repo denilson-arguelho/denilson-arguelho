@@ -9,7 +9,7 @@
 <br>
 
 ![Denilson Arguel GitHub stats](https://github-readme-stats.vercel.app/api?username=denilson-arguelho&show_icons=true&theme=radical)
-![Denilson GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+
 
 ## Tecnologias que  uso no meu dia
 
